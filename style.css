@@ -1,7 +1,9 @@
-h1{
-    color: blue;
+h1, h2{
+    color: rgb(71, 26, 114);
+    
 }
 
 body{
-    background-color: brown;
+    background-color: rgb(151, 182, 149);
+    font-size: larger;
 }
